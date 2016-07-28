@@ -1,0 +1,20 @@
+started with
+mkdir basic_rep
+	then
+cd basic_repo
+touch index.html
+touch styler.css
+set skeleton of index.html
+get init
+made remote basic_repo on github
+!	tried connecting remote to local, but without committed files, no master 
+!	branch could  connect
+add index.html and styler.css
+commit with -m”   “
+finished connecting to remote
+	edited, then added, committed then pushed the html and css files
+	repeated that process once. 
+UPLOADED THIS TO GITHUB.
+
+	finished ASSIGNMENT IV.
+
