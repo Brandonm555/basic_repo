@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#container{
+  width: 90%;
+  height: 70%;
+  padding: 10px;
+  background-color: DarkSlateGray;
+  background: -webkit-linear-gradient(left top, LightCoral, DarkSalmon); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, LightCoral, DarkSalmon); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, LightCoral, DarkSalmon); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, LightCoral, DarkSalmon); /* Standard syntax */
+}
+
+.main{
+  text-shadow: 2px 2px maroon;
+  color: GhostWhite;
+}
